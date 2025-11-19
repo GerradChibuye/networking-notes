@@ -1,0 +1,10 @@
+IP Addressing
+
+This section contains structured notes on IPv4 addressing, including:
+- Binary and decimal representation
+- Classes of IP addresses
+- Private vs public IP ranges
+- Reserved addresses
+- Basic network identification concepts
+
+These notes support my practical networking work and Packet Tracer configurations.
